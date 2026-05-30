@@ -18,7 +18,7 @@ El sitio está pensado como una galería de imágenes donde se pueden visualizar
 Se aplicaron estilos CSS para lograr un diseño responsive y efectos visuales en las imágenes al interactuar con ellas.
 
 
-
+## Vista previa del proyecto
 
 <img width="1904" height="945" alt="image" src="https://github.com/user-attachments/assets/ebba5229-f27a-4c53-bc26-3c11fa7ed869" />
 
