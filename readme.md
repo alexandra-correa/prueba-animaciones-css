@@ -49,6 +49,3 @@ Se aplicaron estilos CSS para lograr un diseño responsive y efectos visuales en
 - Footer con información de contacto
 - Diseño visual coherente y limpio
 
-
-```bash
-git clone https://github.com/alexandra-correa/prueba-animaciones-css.git
