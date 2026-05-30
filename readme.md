@@ -4,11 +4,28 @@ Este proyecto es una página web creada como práctica de CSS, donde trabajé un
 
 ---
 
+## Demo del proyecto
+
+Puedes ver el proyecto en vivo aquí:  
+https://alexandra-correa.github.io/prueba-animaciones-css/
+
+---
+
 ## Descripción
 
 El sitio está pensado como una galería de imágenes donde se pueden visualizar distintas fotografías en formato grid. La página incluye un menú lateral con navegación básica y un footer con información de contacto.
 
 Se aplicaron estilos CSS para lograr un diseño responsive y efectos visuales en las imágenes al interactuar con ellas.
+
+
+
+
+<img width="1904" height="945" alt="image" src="https://github.com/user-attachments/assets/ebba5229-f27a-4c53-bc26-3c11fa7ed869" />
+
+
+
+
+
 
 ---
 
@@ -35,3 +52,14 @@ Se aplicaron estilos CSS para lograr un diseño responsive y efectos visuales en
 ---
 
 ## Estructura del proyecto
+
+(Completar según corresponda)
+
+---
+
+## Cómo verlo localmente
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/alexandra-correa/prueba-animaciones-css.git
